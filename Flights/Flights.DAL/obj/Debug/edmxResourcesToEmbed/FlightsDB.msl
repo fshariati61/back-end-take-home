@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FlightsDALStoreContainer" CdmEntityContainer="FlightsEntities">
+    <EntitySetMapping Name="Airlines">
+      <EntityTypeMapping TypeName="Flights.DAL.Airline">
+        <MappingFragment StoreEntitySet="Airlines">
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="ThreeDigitCode" ColumnName="ThreeDigitCode" />
+          <ScalarProperty Name="TwoDigitCode" ColumnName="TwoDigitCode" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Airports">
+      <EntityTypeMapping TypeName="Flights.DAL.Airport">
+        <MappingFragment StoreEntitySet="Airports">
+          <ScalarProperty Name="Longitude" ColumnName="Longitude" />
+          <ScalarProperty Name="Latitute" ColumnName="Latitute" />
+          <ScalarProperty Name="IATA3" ColumnName="IATA3" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Routes">
+      <EntityTypeMapping TypeName="Flights.DAL.Route">
+        <MappingFragment StoreEntitySet="Routes">
+          <ScalarProperty Name="Destination" ColumnName="Destination" />
+          <ScalarProperty Name="Origin" ColumnName="Origin" />
+          <ScalarProperty Name="AirlineID" ColumnName="AirlineID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
