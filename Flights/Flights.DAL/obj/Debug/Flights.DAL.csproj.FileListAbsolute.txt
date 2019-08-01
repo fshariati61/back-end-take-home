@@ -1,0 +1,16 @@
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\bin\Debug\Flights.DAL.dll.config
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\bin\Debug\Flights.DAL.dll
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\bin\Debug\Flights.DAL.pdb
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\bin\Debug\EntityFramework.dll
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\bin\Debug\System.Security.Permissions.dll
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\bin\Debug\EntityFramework.xml
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\obj\Debug\Flights.DAL.csprojAssemblyReference.cache
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\obj\Debug\Flights.DAL.csproj.CoreCompileInputs.cache
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\obj\Debug\Flights.DAL.csproj.CopyComplete
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\obj\Debug\Flights.DAL.dll
+C:\Users\fshariati\source\repos\Flights\Flights.DAL\obj\Debug\Flights.DAL.pdb
