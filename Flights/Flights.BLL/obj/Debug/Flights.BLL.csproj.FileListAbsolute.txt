@@ -1,0 +1,15 @@
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\bin\Debug\Flights.BLL.dll.config
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\bin\Debug\Flights.BLL.dll
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\bin\Debug\Flights.BLL.pdb
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\bin\Debug\EntityFramework.dll
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\bin\Debug\Flights.DAL.dll
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\bin\Debug\Flights.DAL.pdb
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\bin\Debug\Flights.DAL.dll.config
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\bin\Debug\EntityFramework.xml
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\obj\Debug\Flights.BLL.csprojAssemblyReference.cache
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\obj\Debug\Flights.BLL.csproj.CoreCompileInputs.cache
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\obj\Debug\Flights.BLL.csproj.CopyComplete
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\obj\Debug\Flights.BLL.dll
+C:\Users\fshariati\source\repos\Flights\Flights.BLL\obj\Debug\Flights.BLL.pdb
